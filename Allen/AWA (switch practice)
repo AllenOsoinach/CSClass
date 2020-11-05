@@ -1,0 +1,22 @@
+public class AWA
+{
+    static void main()
+    {
+        {
+            int x=50;
+                switch (x)
+                {
+                    case(50):
+                    System.out.println("x is exactly 50");
+                    break;
+                    case(60):
+                    System.out.println("x is exactly 60");
+                    break;
+                    case(40):
+                    System.out.println("x is exactly 40");
+                    break;
+                }
+                
+        }
+    }
+}
