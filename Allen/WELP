@@ -1,0 +1,17 @@
+public class WELP
+{
+    static void main()
+    {
+        String[] mathpeople={"Lucas", "Fibonacci", "Euler"};
+            for(String i : mathpeople){
+                System.out.println(i);
+            }
+        int[][] matrix={{1,1},{2,3}};
+            for(int l=0; l<matrix.length; l++){
+                for(int o=0; o<matrix[l].length; o++){
+                    System.out.println(matrix[l][o]);
+                }
+            }
+            
+    }
+}
